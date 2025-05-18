@@ -1,0 +1,18 @@
+body{
+    width: 80%;
+    margin: 0 10% 0 10%;
+    background-color: white;
+}
+.fl{
+    width: 90%;
+}
+.corpo{
+    margin-left: 1%;
+    margin-top: 0;
+}
+ul{
+    width: 85%;
+}
+.assi{
+    margin-top: 10px;    
+}
